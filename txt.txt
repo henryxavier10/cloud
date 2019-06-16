@@ -1,0 +1,458 @@
+<?php
+$host='107.180.5.13';
+$base='bdorbi';
+$bdusuario='orbierp';
+$bdclave='a1b2c3d4';
+?>
+
+rromero@codemaker.ec
+
+http://orbitools.net/compelec_mail/fonseca/EnviarEmail.php
+
+ORBIerp@2018
+Sist3ma0rbi@2019
+
+RoberthRomero15
+
+Katy1
+ Julio: rebeca2010
+
+Orbierp2016@
+
+
+Fabi: ACCESO HOSTINGER
+
+https://cpanel.hostinger.es/
+
+sistemasorbi@gmail.com
+
+OrBi2018@
+
+Fabi: orbitools.net
+
+strtoupper($_GET['txtrazon'])
+
+nombreDelObjetoADeshabilitar.disabled = true;
+    
+$("#txtsolicitud").val('');
+
+$('#txtitem').selectpicker('val',null);
+
+
+
+onKeyup 
+
+onblur="aMayusculas(this.value,this.id)"
+
+onkeydown="return soloNumerosVenta(event,this)"
+
+onKeypress="return soloNumeros(event)"
+
+onkeypress="return soloLetras(event)"
+
+onkeypress="return pulsar(event)"
+
+autocomplete="off" 
+
+bloquear enter
+
+pincay2017.
+usleep(500000);
+
+366
+
+<div id="prueba" style="display: none;">	
+
+JULIOROMEROA
+
+
+contifico jemc  nady2014
+
+autocomplete="off"
+
+<script type="text/javascript" src="../../js/jquery.min.js"></script>
+
+
+onkeypress="return pulsar(event)"  
+
+
+=SI(E187=B187,"ok","revisar")
+
+$f = fopen("debug.txt", "w");
+	
+fwrite($f, $fecha);
+		
+fclose($f);
+
+
+483.00
+
+
+datos vps
+
+93.188.163.244
+
+root
+
+sOrBi@2018#Vp
+
+http://cdba.orbitools.net/
+http://orbivps.orbitools.net
+
+http://93.188.163.244/phpMyAdmin/
+
+Cristh: usert
+
+Cristh: orbi_roberth
+	
+DanteMAr456
+virovit
+
+id srver 774635321
+
+mysql_query("SET CHARACTER SET UTF8");
+ 
+                          
+  $("#txtfechaTranC").val("").datepicker("update");
+
+
+$struc = explode("-",$empleoado);
+			
+$identificacion = $struc[0];
+
+
+SeparadorMil2
+
+html_formatot
+
+invertirFecha
+
+function invertirFecha($Fecha){
+		$Fecha=explode("-",$Fecha);
+		$fec=$Fecha[2]."-".$Fecha[1]."-".$Fecha[0];
+		return $fec;
+		 }
+
+
+		$_COOKIE[14] =  $sesion->get("surcusal");		
+
+
+
+<input name="boton" type="button" onclick="javascript:verTexto()" value="Boton" /> 
+
+	$resultado = invertirFecha($_GET['date8']);
+
+function invertirFecha($Fecha){
+				$Fecha=explode("-",$Fecha);
+				$fec=$Fecha[2]."-".$Fecha[1]."-".$Fecha[0];
+				return $fec;
+				 }
+
+
+
+
+para subir
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+
+<span class="ir-arriba icon-arrow-up2">^</span>
+     
+
+<div class="modal-dialog modal-lg" role="document">
+   
+html_formatot(
+
+include "../../../php/models/funciones_generales.php";
+
+
+style="color:#ff0000; font-size:18px;"
+
+
+<span style="color:#ff0000; font-size:20px;">*</span>
+
+
+cuenta goodady señor julio
+
+
+fpt
+erporbi a1b2c3d4
+
+Usuario jcromero09 clave C@iep4521
+
+usuariotienda
+tiendaa1b2c3d4$
+
+fpt
+
+puerto 21
+servidor: ftp.appscaie.com
+usuario : techcenter@htechcenter.com
+clave :techcenter123
+
+hd$$2018 red wiffi ht
+
+data-backdrop="static" data-keyboard="false"
+
+
+if (parseInt(hasta)>parseInt(desde)){
+
+
+HOST:
+107.180.5.13
+
+BD NAME:
+laperla
+
+USER:
+laperla
+
+PASS:
+Perl@2017
+
+godaddy orbicloud
+subdominio: laperla.orbicloud.net
+carpeta: laperla
+
+<span style="color:#ff0000; font-size:18px;">*</span>
+
+orbierp 
+Orbierp2016@
+
+
+Fabian Itc Solution: caiecontable@orbicloud.net
+carpeta: caiecontable
+kilberdcontable@orbicloud.net
+carpeta: kilberdcontable
+connectionpower@orbicloud.net
+carpeta: connectionpower
+recargajvera@orbicloud.net
+carpeta: recargajvera
+recarganvera@orbicloud.net
+carpeta: recarganvera
+
+
+<span style="color:#ff0000; font-size:18px;">*</span>
+
+<strong for="txtemail"><span style="color:#ff0000; font-size:7px;"></span>No colocar Caracteres especiales<br>(´ñ$@#~€¬/\?=)</strong>
+
+
+=CONTAR.SI(B:B;B1)=1
+
+=CONTAR.SI(A:A;A1)=1
+
+NO PUEDE COLOCAR CODIGOS SIMILARES
+
+NO PUEDE COLOCAR NOMBRES SIMILARES
+
+DEBE SELECIONAR DATOS DE LA LISTA
+
+clave excel dante123
+
+
+<div class="form-group">
+		<span style="color:#ff0000; font-size:12px;"> Todos los Campos Con (*) Son Obligatorios</span>
+
+			</div>
+
+onkeypress="return pulsar(event)" onChange="return generatePageLinks(this.value)"
+
+
+    
+
+
+
+
+require_once("EnLetras.php");
+$objletra = new EnLetras();
+
+'.$objletra->ValorEnLetras($registro["monto_egreso"],'').'
+
+
+
+
+DOCUMENTO SIN VALIDEZ TRIBUTARIA
+RESOLUCION No. NAC-DGERCGC14-00790
+
+
+tm-U220D
+platzi
+
+
+Usuario: jcromero@caie.com.ec
+
+
+Clave Orbierp2018
+
+
+a1b2c3d42018
+
+
+Usuario : 
+sistemas
+
+Clave  : 
+sistema2018 
+
+Ip
+ centos
+
+ 
+157.100.248.39
+
+
+port 3356
+
+
+
+ACCESO SSH // ACCESO ROOT - CONFIGURAR SUBDOMINION
+ip:		157.100.248.39
+puerto:		3357
+USUARIO:	root
+PASS:		a1b2c3d42018
+		Erp0rbi2019
+
+--------------------------------
+ACCESO MySQL
+GIRA SERVER http://157.100.248.39
+http://cdbaoficina.orbitools.net/index.php
+
+host: localhost
+usuer: orbi_vps
+pass: RgG6NIYcn8LwplSd
+
+ACCESO ROOT MYSQL
+user:	root
+pass:	kshfopDJJ0082sdc@
+
+--------------------------------
+CENTOS
+
+user girasoft
+pass a1b2c3d3gira
+
+ROOT
+user root
+pass a1b2c3d42018
+
+--------------------------------
+VNC
+157.100.248.39:7845
+SIN USER
+vps_opbi10023pp
+
+
+
+
+servidor gira
+
+http://oficina.giraecuador.tech/php/controllers/login.php
+
+http://cdbaoficina.orbitools.net/index.php
+
+checkSession();
+
+servidor vps hostinger
+
+
+http://fonseca.orbicloud.net/php/servicio/insertar_xml.php?factura=001-101-000000974
+
+DIMOTECH
+URL PhpMyAdmin
+http://cdba.orbitools.net/
+HOST
+93.188.163.244
+
+BD
+bd_dimotech
+
+USER
+orbi_fabian
+
+PASS
+FaB920Ppp54
+
+http://dimo.orbitools.net/
+
+ftp
+VPS HOSTINGER
+IP SSH: 93.188.163.244
+Puerto SSH: 22 
+root
+sOrBi@2018#Vp
+
+
+orbi_fabian
+
+
+FaB920Ppp54
+
+educat
+
+
+I5j7aLbEeQdUc7Tu
+
+
+OrBIVhPsotin2g0er18
+
+sistemasorbi@gmail.com
+
+
+
+SiSOrBi2019@
+
+
+team servidor respaldo
+
+1029896466
+f7he11
+
+tean servidor factu
+
+1012231967
+
+4e4m6a
+
+
+if(!$_COOKIE[4])
+			  { 
+				exit();
+			  }
+				
+
+SELECT campo1, count(*)
+FROM tabla1
+GROUP BY campo1
+HAVING count(*) > 1
+
+$pdf->SetHeaderData($imagen_empresa, 30,$razon,'Direccion:'.$direc.'-'.'Telf:'.$teleempresa);
+
+
+mysqldump -u root -p bd_laindustria > NAS/respaldos/bd_laindustria.sql
+
+
+
+http://orbi.ec/comprobantes/sertodocorp/EnviarEmail.php
+
+http://orbicloud.orbicloud.net/php/servicio/insertar_xml_retencion.php?factura=001-001-000001585
+
+http://casecover.orbitools.net/php/servicio/insertar_xml.php?factura=002-002-000000670
+
+usuario root clave dante123
+
+mysql clave 
+
+
+ns1.hostinger.es
+
+
+Digitalocean:
+henryxavier10@gmail.com
+
+pureconcarne123
+
+
+henryxavier10@gmail.com
+pureconcarne123
+
+pass sqlserver Dante123
+usuario Defecto sa
